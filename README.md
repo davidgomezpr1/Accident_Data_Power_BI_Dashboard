@@ -13,7 +13,8 @@ As a Health and Safety professional working for the US Division at a Constructio
 
 ## Overview
 
-- Structuring of the [data](https://github.com/davidgomezpr1/PowerBI_PersonalStepTracking/blob/Portfolio_Projects/StepTrackingNov21.xlsx) into a Fact(`FACT_Activity`) and Dimension Tables(`DIM_Date` & `DIM_Activity`).
+- Structuring of the [data](https://github.com/davidgomezpr1/PowerBI_PersonalStepTracking/blob/Portfolio_Projects/StepTrackingNov21.xlsx). 
+- For confidentiality reasons, company data was not used and data from the OSHA website was extracted instead. See the Kaggle Dataset link [here](https://www.kaggle.com/ruqaiyaship/osha-accident-and-injury-data-1517).
 - Cleaning of data, leveraging the `Power Query Editor`. Creation of new columns and measures.
 - Design of an interactive body part schematic, utilizing the Synoptic #panel visual for Power BI.
 - Applied conditional formatting to the KPI cards.
